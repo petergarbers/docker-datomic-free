@@ -29,7 +29,3 @@ datomic-free:
     - "4334:4334"
 
 ```
-
-## TODO:
-
-Pull down datomic-free rather than storing it in the repository
