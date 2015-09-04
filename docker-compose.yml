@@ -1,0 +1,7 @@
+datomic-free:
+  build: .
+  command: cat config/dev.properties
+  ports:
+    - "4336:4336"
+    - "4335:4335"
+    - "4334:4334"
